@@ -22,7 +22,7 @@ Linux • macOS • Windows • NetBSD • FreeBSD • OpenWrt • Android
    <img src="https://github.com/Macchina-CLI/macchina/actions/workflows/macchina.yml/badge.svg" alt="CI">
 </a>
 
-<img src="https://www.linkpicture.com/view.php?img=LPic61eeeb9b27a83532613862" />
+<img src="preview/Screenshot.png" alt="Preview" />
 
 </div>
 
